@@ -1,0 +1,42 @@
+.cat-under-supervision {
+	color: orange;
+}
+
+.cat-adoptable {
+	color: green;
+	text-decoration: line-through;
+}
+
+.cat-under-treatment {
+	color: grey;
+}
+
+.cat-name {
+	min-width: 100px;
+}
+
+.in-the-heaven-of-cats {
+	color: black;
+}
+
+.cat-add {
+	border: none;
+	background-color: #fff;
+}
+
+h1 {
+	margin-top: 5px;
+}
+
+.cat-form-container .form-select {
+	width: auto;
+	margin-left: 1rem;
+}
+
+.form-select-header {
+	min-width: 130px;
+	height: 35px;
+	margin-top: 5px;
+	margin-left: 450px;
+	padding: 5px 10px;
+}

@@ -1,0 +1,52 @@
+{
+  "cats": [
+    {
+      "name": "Pisiiiii",
+      "description": "A 14-years-old cat with grey and white stripes and very sensible ",
+      "status": "under-supervision",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Baro",
+      "description": "She lived 10 years, she had black and white stripes and was very smart ",
+      "status": "in the heaven of cats"
+    },
+    {
+      "id": 3,
+      "name": "Lady",
+      "description": "A 12-years-old cat with black and white stripes and always hungry ",
+      "status": "adoptable"
+    },
+    {
+      "id": 4,
+      "name": "Jan",
+      "description": "A 5-years-old male cat with the fur colored with white and black and very sickly ",
+      "status": "under-treatment"
+    },
+    {
+      "id": 5,
+      "name": "Capra",
+      "description": "A 9-years-old cat with brouwn fur and a little crazy. Once she fell from the roof ",
+      "status": "under-supervision"
+    },
+    {
+      "id": 6,
+      "name": "Albitza",
+      "description": "A 9-years-old cat with the fur colored with white and black and very loving ",
+      "status": "adoptable"
+    },
+    {
+      "name": "Zuzi",
+      "description": "crazy cat",
+      "status": "under-treatment",
+      "id": 7
+    },
+    {
+      "name": "miliii6",
+      "description": "manaca doar carne cruda66",
+      "status": "under-treatment",
+      "id": 8
+    }
+  ]
+}
